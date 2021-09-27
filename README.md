@@ -19,7 +19,7 @@ Projeto desenvolvido como estudo.
 - Clone esse repositório
 - Instale as dependências (npm install) 
 - Rode o comando npm run start
-- Crie um arquivo .env na raiz do projeto e preencher as chaves a seguir com os valores apropriados:
+- Crie um arquivo .env na raiz do projeto e preencha a chave a seguir com os valores apropriados:
    ```
    REACT_APP_API_KEY =
    ```

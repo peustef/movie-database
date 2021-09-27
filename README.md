@@ -1,4 +1,3 @@
-https://peu-movie-database.surge.sh/
 # <h1 align='center'> 🎞️Filmes Populares🎞️</h1>
 
  ## Sobre
